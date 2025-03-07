@@ -70,7 +70,6 @@ This project analyzes the geographical distribution of 5G network deployments in
 - Utilizes **spatial relationships** between deployments.
 - **KNN outperforms GCN** due to complex dataset criteria.
 
--![image](https://github.com/user-attachments/assets/c3a5b329-da51-4134-8e00-553f5adc8cad)
 
 -
 - ![image](https://github.com/user-attachments/assets/df316dba-3f5f-454e-98d1-7388d0cb1f3e)
